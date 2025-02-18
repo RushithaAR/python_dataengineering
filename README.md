@@ -1,5 +1,5 @@
 # iPhone Data Analysis using Python
-## Intrduction
+## Introduction
 The iPhone Data Analysis Mini Project involves analyzing an Apple iPhone dataset using Python. It includes basic data transformations and analysis to extract insights.
 ## Technology Used 
 1. Python
